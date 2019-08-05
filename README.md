@@ -1,3 +1,7 @@
+# Update
+
+Demo is also using ``renderscript`` api to blur background for API level >= 17 and uses fastblur to API level < 17
+
 # Blur-behind-alert-dialog
 
 In this demo I have shown you how we can blur the background of `AlertDialog` .
